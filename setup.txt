@@ -1,0 +1,17 @@
+1) install grub-customizer
+
+sudo apt update
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+sudo apt update
+sudo apt install grub-customizer
+
+2) carica il tema nella direzione:
+/boot/grub/themes/
+
+3) aggiorna le impostazioni su Grub Customizer
+
+
+aggiorna grub: (OPZIONALE!!)
+update grub
+sudo update-grub
+
